@@ -4,9 +4,13 @@
 The purpose of this assignment was to review weather data and determine if an investor should move forward financing a surf shop.  We utilized Posgres along with Python to complete the assignment.  Based on the below results, the investor should move forward finacing the deal. 
 
 ## Results
-- **June Summary States**
+- **June Summary Statitics**
+
+![](june_results.png)
 
 - **December Summary Statitics**
+
+![](december_results.png)
 
 ## Summary
 Based on this analysis, we should move forward with opening the shop in hawaii for the following reasons:
