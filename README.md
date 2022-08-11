@@ -1,7 +1,7 @@
 ### Advanced Data Storage and Retrieval
 
 ## Overview
-The purpose of this assignment was to review weather data and determine if an investor should move forward financing a surf shop.  We utilized Posgres along with Python to complete the assignment.  Based on the below results, the investor should move forward finacing the deal. 
+The purpose of this assignment was to review weather data and determine if an investor should move forward financing a surf shop.  We utilized Posgres along with Python to complete the assignment.  Based on the below results, the investor should move forward financing the deal. 
 
 ## Results
 - **June Summary Statitics**
